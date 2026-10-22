@@ -1,0 +1,22 @@
+ZVOČNI TLORIS
+
+1. V mapo zvoki dodajte MP3-posnetke z naslednjimi imeni:
+   soba-s-cevlji.mp3 — Soba s čevlji
+   tovarna-peko.mp3 — Tovarna Peko
+   kraljestvo-obrti.mp3 — Kraljestvo obrti
+   nogavicarji.mp3 — Nogavičarji
+   tkalci.mp3 — Tkalci
+   modrotiskarji.mp3 — Modrotiskarji
+   ustvarjalnica.mp3 — Ustvarjalnica
+   usnjarji.mp3 — Usnjarji
+   otroski-koticek.mp3 — Otroški kotiček
+   sustarska-delavnica.mp3 — Šuštarska delavnica
+   cevljarji.mp3 — Čevljarji
+   otroska-soba.mp3 — Otroška soba
+
+2. Za preizkus odprite index.html (v nekaterih brskalnikih je bolje uporabiti lokalni spletni strežnik).
+3. Za objavo prek povezave naložite vse datoteke na GitHub Pages ali drugo statično gostovanje.
+4. Za zamenjavo posnetka zamenjajte ustrezni MP3 in ponovno objavite datoteke.
+Google Drive lahko uporabite kot arhiv, ne kot spletno gostovanje.
+
+   veza.mp3 - Veza (osrednji prostor s stopnicami)
